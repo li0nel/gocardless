@@ -1,4 +1,4 @@
-service: gocardless-2
+service: gocardless
 
 provider:
   name: aws
